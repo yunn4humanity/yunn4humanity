@@ -1,6 +1,6 @@
 Chase hope like a tiny light that can only be seen in the dark. 🌟
 
-<a href="https://www.notion.so/yunn4humanity/Hi-I-m-YUNN-d01205a5a2e04108bc13808bd04eb344" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=https://simpleicons.org/icons/notion.svg&logoColor=000001"/></a>
+<a href="https://www.notion.so/yunn4humanity/Hi-I-m-YUNN-d01205a5a2e04108bc13808bd04eb344" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=https://simpleicons.org/icons/notion.svg&logoColor=281931"/></a>
 
 <!--
 **yunn4humanity/yunn4humanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
