@@ -6,7 +6,7 @@
   <br/>
   <br/>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={toomstar})](https://solved.ac/{toomstar})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=toomstar)](https://solved.ac/toomstar)
 
 
 </div>
