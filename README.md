@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=@yunn4humanity&fontColor=ffffff&fontSize=45&animation=fadeIn)
 
 
-#### ⭐ 인류를 위해 일하는 개발자, 김상윤이라고 합니다. 
+#### ⭐ I am developing something for Humanity.
 
 <br/>
 
