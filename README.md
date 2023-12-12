@@ -16,9 +16,9 @@
 
 
 #### ✒️ Story
-<a href="https://yunn4humanity.notion.site/yunn4humanity/YUNN-5f7eab4ec9644cc7b238c3aaacf533d0" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=000000"/></a>
+<a href="https://yunn4humanity.notion.site/yunn4humanity/YUNN-5f7eab4ec9644cc7b238c3aaacf533d0" target="_blank"><img src="https://img.shields.io/badge/Notion-f1f1f1?style=flat-square&logo=notion&logoColor=000000"/></a>
 <a href="https://velog.io/@yunn4humanity" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=ffffff"/></a>
-<a href="https://www.linkedin.com/in/sangyun-kim-9a8794234/" target="_blank"><img src="https://img.shields.io/badge/Velog-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"/></a>
+<a href="https://www.linkedin.com/in/sangyun-kim-9a8794234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"/></a>
 
 <br/>
 <br/>
